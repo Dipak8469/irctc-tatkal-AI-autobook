@@ -1,5 +1,5 @@
 # 🚄 IRCTC Tatkal AutoBook Bot
-### Final Year Research Project | Python + Selenium
+### | Python + Selenium
 
 A fully automated IRCTC Tatkal ticket booking bot that:
 - Logs into IRCTC automatically
